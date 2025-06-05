@@ -1,0 +1,12 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "ok, i yesteday playing videogames"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Genial que practiques! 😊\n\nLa forma correcta en inglés es:\n“I played video games yesterday.”\n\n– Recuerda escribir “I” en mayúscula  \n– Usa el pasado simple para acciones ya hechas (played)\n\n¿Qué videojuego jugaste? 🎮👉"
+    }
+  ]
+]
